@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/OliverForral/learning-lerna#readme",
   "dependencies": {
+    "create-react-app": "^1.4.3",
     "lerna": "^2.6.0"
   }
 }
