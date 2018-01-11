@@ -1,0 +1,22 @@
+{
+  "name": "learning-lerna",
+  "version": "1.0.0",
+  "description": "learning lerna",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OliverForral/learning-lerna.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OliverForral/learning-lerna/issues"
+  },
+  "homepage": "https://github.com/OliverForral/learning-lerna#readme",
+  "dependencies": {
+    "lerna": "^2.6.0"
+  }
+}
